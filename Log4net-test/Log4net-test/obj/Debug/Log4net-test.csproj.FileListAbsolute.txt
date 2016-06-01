@@ -1,0 +1,9 @@
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\bin\Debug\Log4net-test.exe.config
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\bin\Debug\Log4net-test.exe
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\bin\Debug\Log4net-test.pdb
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\bin\Debug\log4net.dll
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\bin\Debug\log4net.pdb
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\bin\Debug\log4net.xml
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\obj\Debug\Log4net-test.csprojResolveAssemblyReference.cache
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\obj\Debug\Log4net-test.exe
+c:\users\igutnikov\documents\visual studio 2015\Projects\Log4net-test\Log4net-test\obj\Debug\Log4net-test.pdb
